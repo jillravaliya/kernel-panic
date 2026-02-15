@@ -433,7 +433,7 @@ usr/lib/modules/6.17.0-14-generic/kernel/drivers/nvme/host/nvme-fc.ko.zst
 usr/lib/modules/6.17.0-14-generic/kernel/drivers/nvme/host/nvme.ko.zst
 ```
 
-![NVMe modules inside initramfs](screenshots/lsinitramfs-nvme.png)
+![NVMe modules in initramfs](screenshots/lsinitramfs-nvme%20.png)
 
 **Listing of initramfs contents showing NVMe driver modules exist only inside this file**
 
